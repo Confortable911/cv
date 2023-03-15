@@ -1,0 +1,24 @@
+/*Datei styles.css */
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+body {
+    background-color: #e0dad3;
+}
+
+hr    {
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #8D7B68;
+    width: 10%;
+}
+
+h1 {
+    color: #8D7B68
+}
+
+h3 {
+    color: #A4907C
+}
